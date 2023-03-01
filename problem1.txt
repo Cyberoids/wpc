@@ -1,0 +1,2 @@
+write a code to check whether a word is pallindrome
+
